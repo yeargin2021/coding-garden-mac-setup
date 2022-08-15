@@ -1,4 +1,4 @@
-## My Mac Setup
+## My Mac Setup -- Cloned from Coding Garden (github.com/CodingGarden/mac-setup)...
 
 This repo contains info on all the apps / tools / settings I use on my Mac.
 
