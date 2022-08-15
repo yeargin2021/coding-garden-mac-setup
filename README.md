@@ -288,7 +288,7 @@ brew install alfred
 You can install them in one go by placing them all into a text file and then running brew install:
 
 ```
-firefox-developer-edition
+homebrew/cask-versions/firefox-developer-edition
 app-cleaner
 android-file-transfer
 android-platform-tools
